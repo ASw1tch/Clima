@@ -2,7 +2,7 @@
 
 #  Clima
 
-## What you will learn
+## What I've learned
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
@@ -16,6 +16,3 @@
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
-
-
-![End Banner](Documentation/readme-end-banner.png)
