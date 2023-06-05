@@ -1,8 +1,7 @@
 
 
 #  Clima
-
-## What I've learned
+<img src= "https://github.com/ASw1tch/Clima/assets/108889662/e855ac6d-b55e-4840-b581-abe6aba9b71c" width="360" height="720">
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
